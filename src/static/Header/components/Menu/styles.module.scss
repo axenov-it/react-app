@@ -1,0 +1,18 @@
+.menu {
+  display: flex;
+  background: black;
+}
+
+.menu__item {
+  list-style: none;
+}
+
+.menu__link {
+  color: white;
+  padding: 15px;
+  display: block;
+}
+
+.menu__link_active {
+  background: green;
+}

@@ -1,0 +1,26 @@
+.app {
+  max-width: 800px;
+  margin: auto;
+}
+
+.app__page {
+  min-height: 600px;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.app__page,
+.app__header,
+.app__footer {
+  box-shadow: 0px 0px 4px 3px #0000002e;
+}
+
+.app__header {
+  margin-top: 15px;
+}
+
+.app__footer {
+  padding: 5px;
+  margin-top: 15px;
+  text-align: center;
+}
